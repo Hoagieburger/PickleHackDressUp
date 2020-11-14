@@ -23,7 +23,7 @@ h1 {
  .pickle {
 		position: absolute;
 		margin: 0 auto;
-                width: 9%; 
+                width: 175px; 
                 height: 485px; 
                 padding: 10px;
 		left: 900px;
@@ -45,34 +45,36 @@ h1 {
 .hat {
 		position: absolute;
 		margin: 0 auto;
-                width: 310px; 
-                height: 220px; 
-                padding: 10px;
-		left: 700px;
-		top: 230px;
-	        border: 1px solid black;
+                width: 200px; 
+                height: 100px; 
+                padding: 1px;
+		left: 925px;
+		top: 200px;
+                border: 1px solid blue;
+	        
  }
 .eyewear {
 		position: absolute;
 		margin: 0 auto;
-                width: 9%; 
-                height: 485px; 
-                padding: 10px;
-		left: 900px;
-		top: 200px; 
-		align-items: center;
-		background-image: url("images/pickle.png");
+                width: 200px; 
+                height: 75px; 
+                padding: 0px;
+		left: 930px;
+		top: 325px;
+                align-items: center;
+                border: 1px solid blue; 
+                
  }
 .shirt {
 		position: absolute;
 		margin: 0 auto;
-                width: 9%; 
-                height: 485px; 
+                width: 250px; 
+                height: 150px; 
                 padding: 10px;
-		left: 900px;
-		top: 200px; 
+		left: 860px;
+		top: 400px; 
 		align-items: center;
-		background-image: url("images/pickle.png");
+		border: 1px solid blue;
  }
 .pants {
 		position: absolute;
@@ -83,7 +85,6 @@ h1 {
 		left: 900px;
 		top: 200px; 
 		align-items: center;
-		background-image: url("images/pickle.png");
  }
 
   p { 
@@ -107,3 +108,4 @@ h1 {
 		margin: 2px 4px;
 		cursor: pointer;
 	   }
+
