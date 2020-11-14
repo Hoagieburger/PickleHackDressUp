@@ -41,7 +41,51 @@ h1 {
 		left: 500px; 
             border: 1px solid black; 
             <!-background-color: #F5F5F5;--> 
- } 
+ }
+.hat {
+		position: absolute;
+		margin: 0 auto;
+                width: 310px; 
+                height: 220px; 
+                padding: 10px;
+		left: 700px;
+		top: 230px;
+	        border: 1px solid black;
+ }
+.eyewear {
+		position: absolute;
+		margin: 0 auto;
+                width: 9%; 
+                height: 485px; 
+                padding: 10px;
+		left: 900px;
+		top: 200px; 
+		align-items: center;
+		background-image: url("images/pickle.png");
+ }
+.shirt {
+		position: absolute;
+		margin: 0 auto;
+                width: 9%; 
+                height: 485px; 
+                padding: 10px;
+		left: 900px;
+		top: 200px; 
+		align-items: center;
+		background-image: url("images/pickle.png");
+ }
+.pants {
+		position: absolute;
+		margin: 0 auto;
+                width: 9%; 
+                height: 485px; 
+                padding: 10px;
+		left: 900px;
+		top: 200px; 
+		align-items: center;
+		background-image: url("images/pickle.png");
+ }
+
   p { 
      font-size:20px; 
     font-weight:bold; 
