@@ -1,0 +1,65 @@
+body {
+	background-color: #c5c285;
+	
+}
+.background {
+	background-image: url("images/pickle.png");
+}
+.button {
+	border: none;
+	color: black;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	align: center;
+	display: inline-block;
+	font-size: 16px;
+	margin: 2px 4px;
+	cursor: pointer;
+}
+h1 {
+    text-align: center;
+}
+ .pickle {
+		position: absolute;
+		margin: 0 auto;
+                width: 9%; 
+                height: 485px; 
+                padding: 10px;
+		left: 900px;
+		top: 200px; 
+		align-items: center;
+		background-image: url("images/pickle.png");
+ }
+.clothes {
+		position: absolute;
+		margin: 0 auto;
+            width: 50%; 
+            height: 700px; 
+            padding: 10px;
+		top: 800px;
+		left: 500px; 
+            border: 1px solid black; 
+            <!-background-color: #F5F5F5;--> 
+ } 
+  p { 
+     font-size:20px; 
+    font-weight:bold; 
+    }
+ img.centered {
+		display: block;
+		margin-left: auto;
+		margin-right: auto 
+}
+.button {
+		border: none;
+		color: black;
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: none;
+		align: center;
+		display: inline-block;
+		font-size: 16px;
+		margin: 2px 4px;
+		cursor: pointer;
+	   }
