@@ -6,7 +6,7 @@ body {
 	text-align: center;
 }
 .background {
-	background-image: url("images/pickle.png");
+	background-color: #c5c285;
 }
 .button {
 	border: none;
