@@ -1,15 +1,22 @@
 <html> 
-<head> 
+<head>
+<link rel="stylesheet" href="stylesheet.css">
 <title> Pickle Pun Generator </title>
 </head>
+<nav>
+	<button class="button" onclick="location.href='index.html';">Home</button>
+	<button class="button" onclick="location.href='dress_up.html';">Dress Up</button>
+	<button class="button" onclick="location.href='picklepuns.html';">Pickle Puns</button>
+	<button class="button" onclick="location.href='about-us.html';">About Us</button>
+</nav>
 <body> 
-    <h1> Pickle Puns </h1> 
-    <div id = "punDisplay"> 
+    <h1 class="background"> Pickle Puns </h1> 
+    <div id = "punDisplay" class="background"> 
         
     <!-- display puns here -->
         
     </div>
-    <button onclick = "newPun()"> New Pickle Pun </button>
+    <button class="button" onclick = "newPun()">New Pickle Pun</button>
     <script>
     
     var puns = [

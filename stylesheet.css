@@ -89,10 +89,11 @@ h1 {
 		align-items: center;
  }
 
-  p { 
-     font-size:20px; 
-    font-weight:bold; 
-    }
+p { 
+	font-size:20px; 
+	font-weight:bold;
+	background-color: #c5c285;
+}
  img.centered {
 		display: block;
 		margin-left: auto;
