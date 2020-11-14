@@ -1,13 +1,14 @@
 body {
 	background-color: #c5c285;
-	
+	background-image: url("images/logo3.png");
 }
 .background {
-	background-image: url("images/pickle.png");
+	background-color: #c5c285;
 }
 .button {
 	border: none;
 	color: black;
+	background-color: #c5c285;
 	padding: 15px 32px;
 	text-align: center;
 	text-decoration: none;
@@ -30,6 +31,7 @@ h1 {
 		top: 200px; 
 		align-items: center;
 		background-image: url("images/pickle.png");
+		background-color: #c5c285;
  }
 .clothes {
 		position: absolute;
