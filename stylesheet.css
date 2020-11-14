@@ -6,6 +6,8 @@ body {
 	text-align: center;
 }
 .background {
+	font-size: 20px;
+	font-weight: bold;
 	background-color: #c5c285;
 }
 .button {
@@ -23,6 +25,7 @@ body {
 }
 h1 {
     text-align: center;
+    background-color: #c5c285;
 }
  .pickle {
 		position: absolute;
