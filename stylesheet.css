@@ -2,6 +2,9 @@ body {
 	background-color: #c5c285;
 	
 }
+.center {
+	text-align: center;
+}
 .background {
 	background-image: url("images/pickle.png");
 }
@@ -27,7 +30,7 @@ h1 {
                 height: 485px; 
                 padding: 10px;
 		left: 900px;
-		top: 200px; 
+		top: 250px; 
 		align-items: center;
 		background-image: url("images/pickle.png");
  }
@@ -38,7 +41,7 @@ h1 {
             height: 700px; 
             padding: 10px;
 		top: 800px;
-		left: 500px; 
+		left: 550px; 
             border: 1px solid black; 
             <!-background-color: #F5F5F5;--> 
  }
@@ -49,7 +52,7 @@ h1 {
                 height: 100px; 
                 padding: 1px;
 		left: 925px;
-		top: 200px;
+		top: 250px;
                 border: 1px solid blue;
 	        
  }
@@ -60,7 +63,7 @@ h1 {
                 height: 75px; 
                 padding: 0px;
 		left: 930px;
-		top: 325px;
+		top: 375px;
                 align-items: center;
                 border: 1px solid blue; 
                 
@@ -72,7 +75,7 @@ h1 {
                 height: 150px; 
                 padding: 10px;
 		left: 860px;
-		top: 400px; 
+		top: 450px; 
 		align-items: center;
 		border: 1px solid blue;
  }
@@ -83,7 +86,7 @@ h1 {
                 height: 485px; 
                 padding: 10px;
 		left: 900px;
-		top: 200px; 
+		top: 250px; 
 		align-items: center;
  }
 
