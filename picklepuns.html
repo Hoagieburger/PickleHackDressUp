@@ -1,0 +1,30 @@
+<html> 
+<head> 
+<title> Pickle Pun Generator </title>
+</head>
+<body> 
+    <h1> Pickle Puns </h1> 
+    <div id = "punDisplay"> 
+        
+    <!-- display puns here -->
+        
+    </div>
+    <button onclick = "newPun()"> New Pickle Pun </button>
+    <script>
+    
+    var puns = [
+        "I like pickles",
+        "Pickle pickle pickle",
+        "Become a pickle",
+        "Oh no pickles",
+        "I'm afraid of pickles",
+        "Aaa pickles"
+    ]
+    function newPun() {
+        var randomNumber = Math.floor(Math.random() * (puns.length));
+        document.getElementById("punDisplay").innerHTML = puns[randomNumber];
+    }
+    
+    </script>
+    </body>
+</html>
